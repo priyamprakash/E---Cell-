@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "15530471894",
+    "project_id": "startup-mit",
+    "storage_bucket": "startup-mit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15530471894:android:cd6b879e2a293d6a233477",
+        "android_client_info": {
+          "package_name": "com.mitm.startupmit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15530471894-b8s6kand7ropmjv8tg7otk2k07fklnff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mitm.startupmit",
+            "certificate_hash": "52db164d44a6807b5c01c4aee51eda9cb92e72b5"
+          }
+        },
+        {
+          "client_id": "15530471894-5rq0vu652epn0eh85hb0fmrsmgjdij0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfWrJCQkAzRjRjV3CbSyRGC96FX_CQmcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15530471894-5rq0vu652epn0eh85hb0fmrsmgjdij0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
